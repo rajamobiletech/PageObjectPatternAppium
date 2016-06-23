@@ -5,3 +5,6 @@ src/test/java/com/appium/config/Sample.java
 .DS_Store
 .idea/*
 *.iml
+/target/
+.classpath
+.DS_Store
